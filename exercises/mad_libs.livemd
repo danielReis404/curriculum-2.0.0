@@ -56,6 +56,11 @@ blank3 = "code"
 Enter your solution below.
 
 ```elixir
+word_1 = "person"
+word_2 = "code"
+word_3 = "bugs"
+
+"A programmer is a " <> word_1  <> " that turns " <> word_2 <> " into " <> word_3 <> "."
 
 ```
 
@@ -81,6 +86,12 @@ blank3 = "foobar"
 Enter your solution below.
 
 ```elixir
+blank1 = "Fruit"
+blank2 = "water"
+blank3 = "juice"
+
+"#{blank1} and #{blank2} combined makes #{blank3}."
+
 
 ```
 
